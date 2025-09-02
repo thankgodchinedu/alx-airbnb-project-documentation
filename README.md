@@ -25,6 +25,5 @@
 - Testing
 
 ## Diagram
-![Backend Features Diagram](features_and_functionalities.drawio.png)
-
+![Backend Features Diagram](features-and-functionalities/features_and_functionalities.drawio.png)
 
