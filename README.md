@@ -1,4 +1,10 @@
-# Airbnb Clone – Backend Features and Functionalities
+# ALX Airbnb Project Documentation – Airbnb Clone (Backend Features & Functionalities)
+
+This repository contains the documentation for the ALX Airbnb project.  
+It includes:
+- Features and functionalities
+- Diagrams
+- Project notes
 
 ## Core Functionalities
 - User Management (Registration, Login, Profile Management)
