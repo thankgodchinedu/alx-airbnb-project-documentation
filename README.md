@@ -70,4 +70,4 @@ The requirements are categorized into **Core Functionalities**, **Technical Requ
 ## Diagram
 Below is the diagram created with Draw.io that represents the features and functionalities of the Airbnb Clone backend.
 
-![Backend Features Diagram](features_and_functionalities.png)
+![Backend Features Diagram](image.png)
